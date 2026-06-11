@@ -11,3 +11,4 @@ soundfile
 joblib
 h5py
 ipython
+huggingface_hub
